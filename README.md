@@ -1,4 +1,7 @@
-### EX-1 <p align="center"><b>IMPLEMENTATION OF BASIC LOGIC GATES    </b>   
+### EX-1 <p align="center"><b>IMPLEMENTATION OF BASIC LOGIC GATES    </b>  
+
+## NAME: S ADITYA
+## REG NO: 212223040007
 
 **DATE:**
 
